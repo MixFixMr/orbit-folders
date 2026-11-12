@@ -1,0 +1,9 @@
+{
+  "id": "orbit-folders",
+  "name": "Orbit Folders",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Explore your vault as an animated star system where folders orbit like planets and notes circle them as moons.",
+  "author": "MixFixMr",
+  "isDesktopOnly": false
+}

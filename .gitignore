@@ -1,0 +1,9 @@
+# Obsidian stores plugin settings here when the repo is used inside a vault
+data.json
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
